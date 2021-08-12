@@ -1,0 +1,180 @@
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Vchat.StaticWebAssets.xml
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Vchat.exe
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Vchat.deps.json
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Vchat.runtimeconfig.json
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Vchat.runtimeconfig.dev.json
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Vchat.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\ref\Vchat.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Vchat.pdb
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Vchat.Views.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Vchat.Views.pdb
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.AssemblyInfo.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\staticwebassets\Vchat.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\staticwebassets\Vchat.StaticWebAssets.xml
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\scopedcss\bundle\Vchat.styles.css
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.TagHelpers.input.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.TagHelpers.output.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.Views.pdb
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.csproj.CopyComplete
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.dll
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\ref\Vchat.dll
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.pdb
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Vchat.genruntimeconfig.cache
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Users\ChangePassword.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\_EyePassword.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\_Register_Login.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Contacts\Index.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Contacts\AddContacts.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Contacts\Messanges.cshtml.g.cs
+C:\Users\User\Desktop\Семенов\Vchat\bin\Debug\net5.0\app.db
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\appsettings.Development.json
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\appsettings.json
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Vchat.StaticWebAssets.xml
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\app.db
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Vchat.exe
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Vchat.deps.json
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Vchat.runtimeconfig.json
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Vchat.runtimeconfig.dev.json
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Vchat.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\ref\Vchat.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Vchat.pdb
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Vchat.Views.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Vchat.Views.pdb
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Humanizer.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.csprojAssemblyReference.cache
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.AssemblyInfoInputs.cache
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.AssemblyInfo.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.csproj.CoreCompileInputs.cache
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.MvcApplicationPartsAssemblyInfo.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.MvcApplicationPartsAssemblyInfo.cache
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.RazorAssemblyInfo.cache
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.RazorAssemblyInfo.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\staticwebassets\Vchat.StaticWebAssets.Manifest.cache
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\staticwebassets\Vchat.StaticWebAssets.xml
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\scopedcss\bundle\Vchat.styles.css
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.TagHelpers.input.cache
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.TagHelpers.output.cache
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.RazorCoreGenerate.cache
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Contacts\AddContacts.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Contacts\Index.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Contacts\Messanges.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\_EyePassword.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\_Register_Login.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Users\ChangePassword.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.RazorTargetAssemblyInfo.cache
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.RazorTargetAssemblyInfo.cs
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.Views.pdb
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.csproj.CopyComplete
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\ref\Vchat.dll
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.pdb
+D:\учеба\Мага 3 семестр\Семенов\Vchat\obj\Debug\net5.0\Vchat.genruntimeconfig.cache

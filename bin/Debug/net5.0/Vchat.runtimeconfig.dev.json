@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\VOVAY\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\VOVAY\\.nuget\\packages"
+    ]
+  }
+}

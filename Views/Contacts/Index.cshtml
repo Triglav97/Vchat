@@ -1,0 +1,44 @@
+@model IEnumerable<Vchat.Models.User>
+@{
+    ViewBag.Title = "Список Контактов";
+}
+
+@* <form asp-action="AddContacts" method="post">
+    <button type="submit" class="btn btn-sm btn-primary">
+        Добавить нового контакта
+    </button>
+</form> *@
+<a asp-action="AddContacts">Добавить нового контакта</a>
+
+
+<table class="table">
+    <tr><th>Email</th><th></th></tr>
+    @foreach (var user in Model){
+        <tr>
+            <td>@user.Email</td>
+            <td>
+                <form asp-action="Messanges" asp-route-id="@user.Id" method="GET">
+                    <button type="submit" class="btn btn-sm btn-primary">
+                        Сообщения
+                    </button>
+                </form>
+            </td>
+        </tr>   
+    }
+</table>
+
+@* <table class="table">
+    <tr><th>Email</th><th></th></tr>
+    @foreach (var user in Model){
+        <tr>
+            <td>@user.Email</td>
+            <td>
+                <form asp-action="AddContact" asp-route-id="@user.Id" method="post">
+                    <button type="submit" class="btn btn-sm btn-primary">
+                        Добавить контакт
+                    </button>
+                </form>
+            </td>
+        </tr>
+    }
+</table> *@

@@ -1,0 +1,43 @@
+@model Vchat.ViewModels.MessangerUserViewModel
+
+@{
+    ViewBag.Title = "Список Контактов";
+}
+<div>
+    <div class="text-center"> Переписочка с @Model.UserName</div>
+    <div>
+        <table align="center">
+        @foreach (var mess in Model.Listmess){
+            <tr> 
+                @if(mess.ToSendId != Model.ContactId){
+                    <td><textarea readonly disabled>@mess.Cryptmessage</textarea></td>
+                    <td><textarea readonly disabled>Time Send: @mess.SendTime</textarea></td>
+                }
+            </tr>
+            <tr>
+                @if(mess.ToSendId == Model.ContactId){
+                    <td><textarea readonly disabled>Time Send: @mess.SendTime</textarea></td>
+                    <td><textarea readonly disabled>@mess.Cryptmessage</textarea></td>
+                }
+            </tr>                
+        }
+        </table>
+    </div>
+    <div>
+        <form action="Messanges" method="POST">
+            <table align="center">
+                <td>
+                    <input type = "text" asp-for= "@Model.Messange">
+                    <input type = "hidden" asp-for = "@Model.ContactId" value="@Model.ContactId">
+                    <input type = "hidden" asp-for = "@Model.UserName" value="@Model.UserName">
+                    @* <textarea asp-route-data = "@Model" asp-for ="@Model.Messange"> </textarea> *@
+                </td>  
+                <td>
+                    <button type="submit" class="btn btn-sm btn-primary">
+                        Отправить
+                    </button>
+                </td>  
+            </table>
+        </form>
+    </div>
+</div>
